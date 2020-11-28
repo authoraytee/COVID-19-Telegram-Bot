@@ -2,4 +2,5 @@ aiogram
 requests
 BeautifulSoup4
 lxml
+mysql-connector-python
 
