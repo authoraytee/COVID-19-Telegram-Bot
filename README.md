@@ -1,1 +1,1 @@
-# COVID-19-Telegram-Bot
+# COVID 19 Telegram Bot
