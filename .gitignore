@@ -1,3 +1,2 @@
-venv
-
-secret.py
+my_config.py
+/__pycache__
