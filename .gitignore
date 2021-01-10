@@ -1,6 +1,5 @@
 my_config.py
-
-/utils/full-api-connector.py
+utils/full-api-connector.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
