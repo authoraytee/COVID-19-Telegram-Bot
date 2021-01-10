@@ -1,1 +1,0 @@
-This directory contains иasic scripts for communicating with API, database and parsing 
