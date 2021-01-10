@@ -1,0 +1,1 @@
+This directory contains basic scripts for communicating with API, database and parsing 
