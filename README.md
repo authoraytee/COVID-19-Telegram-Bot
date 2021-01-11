@@ -1,4 +1,4 @@
-# COVID-19 Telegram Bot ![](https://img.shields.io/badge/aiogram-111-brightgreen)]
+# COVID-19 Telegram Bot ![](https://img.shields.io/badge/-aiogram-blue)![](https://img.shields.io/badge/-requests-red)![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
 
 
 ## What it can
