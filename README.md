@@ -1,4 +1,5 @@
-# COVID-19 Telegram Bot https://img.shields.io/badge/fff-fff-green
+# COVID-19 Telegram Bot [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+
 
 ## What it can
 
