@@ -1,8 +1,9 @@
 # COVID-19 Telegram Bot
 
 ## What it can
-![Bot preview](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg){:height="36px" width="36px"}.
 ![Bot preview](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg)
+
+<img src="https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg" width="200" height="200" />
 
 ## Usage
 Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
