@@ -10,7 +10,7 @@
 
 
 ## Usage
-Bot can be found on: **t.me/COVID1921_bot**  (May be inactive ;) )
+Bot can be found at: **[t.me/COVID1921_bot](t.me/COVID1921_bot)**  (May be inactive ;) )
 
 #### If you want to run it on your server
 
