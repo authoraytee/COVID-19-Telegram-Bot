@@ -1,11 +1,14 @@
-# COVID-19 Telegram Bot
+# COVID-19 Telegram Bot /github/languages/top/:user/:repo
 
 ## What it can
 
+##### 
+
+Briefly:
 <img src="https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg" width="300"/>
 
 ## Usage
-Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
+Bot can be found on: **t.me/COVID1921_bot**  (May be inactive ;) )
 
 #### If you want to run it on your server
 
@@ -33,3 +36,6 @@ Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
  
 #### Parsing data source:
  - https://covid-stat.com/
+ 
+ #### Database:
+- MySQL `(but you can use whatever else)`
