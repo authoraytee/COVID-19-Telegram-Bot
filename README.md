@@ -1,7 +1,7 @@
 # COVID-19 Telegram Bot
 
 ## What it can
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Bot preview](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/overview.jpg)
 
 ## Usage
 Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
