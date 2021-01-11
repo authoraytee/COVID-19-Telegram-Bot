@@ -6,7 +6,8 @@
 #### Shows up-to-date information about COVID-19 in current time
 
 ##### Briefly:
-<img src="https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg" width="300"/>
+![](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/AnguMZ45OJ.gif)
+
 
 ## Usage
 Bot can be found on: **t.me/COVID1921_bot**  (May be inactive ;) )
