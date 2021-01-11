@@ -2,7 +2,7 @@
 
 ## What it can
 
-<img src="https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg" width="250"/>
+<img src="https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg" width="350"/>
 
 ## Usage
 Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
