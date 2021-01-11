@@ -1,9 +1,9 @@
-# COVID-19 Telegram Bot ![](https://img.shields.io/badge/-aiogram-blue)![](https://img.shields.io/badge/-requests-red)![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
+# COVID-19 Telegram Bot ![](https://img.shields.io/badge/-aiogram-blue) ![](https://img.shields.io/badge/python-v.3.7%2B-important) ![](https://img.shields.io/badge/-requests-red) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
 
 
 ## What it can
 
-##### 
+##### Shows up-to-date information about COVID-19 in current time
 
 Briefly:
 <img src="https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg" width="300"/>
@@ -27,10 +27,10 @@ Bot can be found on: **t.me/COVID1921_bot**  (May be inactive ;) )
 `(but it also works on 3.7+ versions)`
 
 #### Python Libraries:
- - aiogram
- - requests
- - beautifulsoup4
- - mysql-connector-python
+ - ![](https://img.shields.io/badge/-aiogram-blue)
+ - ![](https://img.shields.io/badge/-requests-red)
+ - ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
+ - ![](https://img.shields.io/badge/-mysql--connector--python-yellow)
 
 #### API:
  - https://disease.sh/
