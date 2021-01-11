@@ -3,9 +3,9 @@
 
 ## What it can
 
-##### Shows up-to-date information about COVID-19 in current time
+#### Shows up-to-date information about COVID-19 in current time
 
-Briefly:
+#####Briefly:
 <img src="https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/overview.jpg" width="300"/>
 
 ## Usage
