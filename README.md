@@ -1,4 +1,4 @@
-# COVID-19 Telegram Bot /github/languages/top/:user/:repo
+# COVID-19 Telegram Bot https://img.shields.io/badge/fff-fff-green
 
 ## What it can
 
