@@ -28,6 +28,8 @@ Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
  - beautifulsoup4
  - mysql-connector-python
 
-#### API's:
- - https://disease.sh/v3/covid-19/
+#### API:
+ - https://disease.sh/
+ 
+#### Parsing data source:
  - https://covid-stat.com/
