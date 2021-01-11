@@ -16,3 +16,18 @@ Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
  3. Run `app.py` as `python app.py` or by IDE tools
 
 > *Python 3.7 or higher*
+
+## Technologies
+
+#### Python v3.8.5 
+`(but it also works on 3.7+ versions)`
+
+#### Python Libraries:
+ - aiogram
+ - requests
+ - beautifulsoup4
+ - mysql-connector-python
+
+#### API's:
+ - https://disease.sh/v3/covid-19/
+ - https://covid-stat.com/
