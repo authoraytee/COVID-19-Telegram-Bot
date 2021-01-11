@@ -24,7 +24,7 @@ Bot can be found on: **t.me/COVID1921_bot**  (May be inactive ;) )
 
 ## Technologies
 
-#### Python v3.8.5 
+#### I used Python v3.8.5 
 `(but it also works on 3.7+ versions)`
 
 #### Python Libraries:
