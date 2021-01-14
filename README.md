@@ -1,9 +1,9 @@
-# COVID-19 Telegram Bot      ![](https://img.shields.io/badge/python-v.3.7%2B-important)  ![](https://img.shields.io/badge/-aiogram-blue) ![](https://img.shields.io/badge/-requests-red) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4) ![](https://img.shields.io/badge/-MySQL-lightgrey)
+# :microbe: COVID-19 Telegram Bot :microbe:  ![](https://img.shields.io/badge/python-v.3.7%2B-important)  ![](https://img.shields.io/badge/-aiogram-blue) ![](https://img.shields.io/badge/-requests-red) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4) ![](https://img.shields.io/badge/-MySQL-lightgrey)
 
 
 ## What it can
 
-#### Shows up-to-date information about COVID-19 in current time
+#### Shows up-to-date information about COVID-19 in current time, coronavirus news and FAQ about it!!!
 
 ##### Briefly:
 ![](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/presentation.gif)
