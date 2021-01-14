@@ -6,7 +6,7 @@
 #### Shows up-to-date information about COVID-19 in current time
 
 ##### Briefly:
-![](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/AnguMZ45OJ.gif)
+![](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/presentation.gif)
 
 
 ## Usage
