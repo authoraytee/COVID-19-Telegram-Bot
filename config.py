@@ -6,7 +6,7 @@ API_GLOBAL_LINK = 'https://covid-stat.com/'
 #Your bot token
 TOKEN='...'
 
-# The first administrator is you, enter your user ID (as a integer)
+# The first administrator is you, enter your user ID (as an integer)
 admins = [
     000000000,
 ]
