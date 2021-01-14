@@ -1,10 +1,16 @@
-# COVID-19 Telegram Bot
+# COVID-19 Telegram Bot      ![](https://img.shields.io/badge/python-v.3.7%2B-important)  ![](https://img.shields.io/badge/-aiogram-blue) ![](https://img.shields.io/badge/-requests-red) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
+
 
 ## What it can
-![Bot preview](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/overview.jpg)
+
+#### Shows up-to-date information about COVID-19 in current time
+
+##### Briefly:
+![](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/AnguMZ45OJ.gif)
+
 
 ## Usage
-Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
+Bot can be found at: **[t.me/COVID1921_bot](https://t.me/COVID1921_bot)**  (May be inactive ;) )
 
 #### If you want to run it on your server
 
@@ -15,3 +21,23 @@ Bot can be found by name: **@COVID1921_bot**  (May be inactive ;) )
  3. Run `app.py` as `python app.py` or by IDE tools
 
 > *Python 3.7 or higher*
+
+## Technologies
+
+#### I used Python v3.8.5 
+`(but it also works on 3.7+ versions)`
+
+#### Python Libraries:
+ - ![](https://img.shields.io/badge/-aiogram-blue)
+ - ![](https://img.shields.io/badge/-requests-red)
+ - ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
+ - ![](https://img.shields.io/badge/-mysql--connector--python-yellow)
+
+#### API:
+ - https://disease.sh/
+ 
+#### Parsing data source:
+ - https://covid-stat.com/
+ 
+ #### Database:
+- MySQL `(but you can use whatever else)`
