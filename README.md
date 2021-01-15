@@ -33,11 +33,10 @@ Bot can be found at: **[t.me/COVID1921_bot](https://t.me/COVID1921_bot)**  (May 
  - ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
  - ![](https://img.shields.io/badge/-mysql--connector--python-yellow)
 
-#### API:
- - https://disease.sh/
- 
-#### Parsing data source:
- - https://covid-stat.com/
+#### Used resources:
+ - API: https://disease.sh/
+ - Latest news resource: covid-stat.com/
+ - Where did I get the information for my FAQ: www.who.int/
  
  #### Database:
-- MySQL `(but you can use whatever else)`
+- MySQL
