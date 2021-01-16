@@ -1,12 +1,12 @@
-# COVID-19 Telegram Bot      ![](https://img.shields.io/badge/python-v.3.7%2B-important)  ![](https://img.shields.io/badge/-aiogram-blue) ![](https://img.shields.io/badge/-requests-red) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
+# &#129440; COVID-19 Telegram Bot &#129440; ![](https://img.shields.io/badge/python-v.3.7%2B-important)  ![](https://img.shields.io/badge/-aiogram-blue) ![](https://img.shields.io/badge/-requests-red) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4) ![](https://img.shields.io/badge/-MySQL-lightgrey)
 
 
 ## What it can
 
-#### Shows up-to-date information about COVID-19 in current time
+#### Shows up-to-date information about COVID-19 in current time, coronavirus news and FAQ about it!!!
 
 ##### Briefly:
-![](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/AnguMZ45OJ.gif)
+![](https://github.com/authoraytee/COVID-19-Telegram-Bot/blob/main/trash/presentation.gif)
 
 
 ## Usage
@@ -33,11 +33,10 @@ Bot can be found at: **[t.me/COVID1921_bot](https://t.me/COVID1921_bot)**  (May 
  - ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
  - ![](https://img.shields.io/badge/-mysql--connector--python-yellow)
 
-#### API:
- - https://disease.sh/
- 
-#### Parsing data source:
- - https://covid-stat.com/
+#### Used resources:
+ - API: https://disease.sh/
+ - Latest news resource: covid-stat.com/
+ - Where did I get the information for my FAQ: www.who.int/
  
  #### Database:
-- MySQL `(but you can use whatever else)`
+- MySQL
