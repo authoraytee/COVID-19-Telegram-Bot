@@ -1,6 +1,8 @@
 my_config.py
+test.py
 utils/full-api-connector.py
-
+testbot/
+keyboards/keyboards.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
