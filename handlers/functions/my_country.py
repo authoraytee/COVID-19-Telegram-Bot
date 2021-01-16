@@ -6,11 +6,30 @@ from loader import dp, storage, bot
 
 @dp.message_handler(commands='my_country')
 @dp.callback_query_handler(text='my_country')
-async def inline_kb_answer_callback_handler(query: types.CallbackQuery):
+async def my_country_handler(query: types.CallbackQuery):
 
-    user_country = query.from_user.language_code
-    stat = my_country(user_country)
+    # Telegram does not let you know the user's country for security reasons, 
+    # so you can only use the language
+    user_lang = query.from_user.language_code
 
+    if user_lang == 'en':
+            await bot.send_message(query.from_user.id, english_lan_handler())
+    else: 
+        try: 
+            stat = my_country(user_lang)
+
+            await bot.send_message(query.from_user.id, handler_body(stat))
+            
+        except Error as e:
+            await bot.send_message(query.from_user.id, 'There was an error getting info!')
+
+
+def english_lan_handler():
+    return 'Your account language in english so country can\'t be identified!\n\
+But if you really want to, you can find it on covid-stat.com/ or any else source!'
+
+
+def handler_body(stat):
     country = stat['country']
     population = stat['population']
     cases = stat['cases']
@@ -30,9 +49,7 @@ async def inline_kb_answer_callback_handler(query: types.CallbackQuery):
     criticalPerOneMillion = stat['criticalPerOneMillion']
     deathsPerOneMillion = stat['deathsPerOneMillion']
 
-
-    await bot.send_message(query.from_user.id, 
-    'COVID-19 in your country:\n\
+    return 'COVID-19 in your country:\n\
 ---------------------------------------------------------------------\n\
 * Statistics Are Updated Every 10 Minutes *\n\
 ---------------------------------------------------------------------\n\
@@ -76,4 +93,4 @@ Deaths Per Million - {}\n\
         recoveredPerOneMillion,
         criticalPerOneMillion,
         deathsPerOneMillion
-    ))
+    )
