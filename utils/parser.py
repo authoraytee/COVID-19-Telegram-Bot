@@ -1,28 +1,30 @@
 import requests
 from bs4 import BeautifulSoup as BS
 
-r = requests.get("https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/news")
+r = requests.get("https://covid-stat.com/")
 html = BS(r.content, 'html.parser')
 
 def parse():
     i = 0
-    output = {}
+    output = []
 
-    for el in html.select('.list-view'):
-        title = el.select('.heading')
-        date = el.select('.sub-title')
+    for el in html.select('.news'):
+        body = el.select('.new')
+
+        output.append(body)
+
         
-        output.update({title[0].text :date[0].text})
+    print(output)
 
-        i+=1
-        if i == 5:
-            break
+    text = ['Latest news about COVID-19: ', '']
 
-    text = ['Latest new about COVID-19: ', '']
+    text.append(body)
+    for t in output:
+    #    text.append('-'*30)
+        text.append(t + '\n')
 
-    for t, d in output.items():
-        text.append('-----')
-        text.append(t + '\n' + d)
+    #print(text)
 
     text = '\n'.join(text)
+
     return text        
