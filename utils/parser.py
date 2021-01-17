@@ -8,8 +8,8 @@ def parse():
     i = 0
     output = []
 
-    for el in html.select('.news'):
-        body = el.select('.new')
+    for el in html.select('.sgXwHf'):
+        body = el.select('.TWa0lb')
 
         output.append(body)
 
