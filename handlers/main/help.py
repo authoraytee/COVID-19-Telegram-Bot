@@ -25,5 +25,6 @@ async def inline_kb_answer_callback_handler(query: types.CallbackQuery):
     ]
     text = '\n'.join(text)
 
+    await bot.delete_message(message.chat.id, message.from_user.id)
     await bot.send_message(query.from_user.id, text)
 
