@@ -1,5 +1,4 @@
-# &#129440; COVID-19 Telegram Bot &#129440; ![](https://img.shields.io/badge/python-v.3.8-orange)  ![](https://img.shields.io/badge/-aiogram-ff0000) ![](https://img.shields.io/badge/-requests-ffea00) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4) ![](https://img.shields.io/badge/-MySQL-a6f6ff)
-![](https://img.shields.io/badge/-lxml-00c3d9)
+# &#129440; COVID-19 Telegram Bot &#129440; ![](https://img.shields.io/badge/python-v.3.8-orange)  ![](https://img.shields.io/badge/-aiogram-ff0000) ![](https://img.shields.io/badge/-requests-ffea00) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4) ![](https://img.shields.io/badge/-MySQL-a6f6ff) ![](https://img.shields.io/badge/-lxml-00c3d9)
 
 
 ## What it can
