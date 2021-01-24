@@ -1,4 +1,4 @@
-# &#129440; COVID-19 Telegram Bot &#129440; ![](https://img.shields.io/badge/python-v.3.8-orange)  ![](https://img.shields.io/badge/-aiogram-ff0000) ![](https://img.shields.io/badge/-requests-ffea00) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4) ![](https://img.shields.io/badge/-MySQL-a6f6ff) ![](https://img.shields.io/badge/-lxml-00c3d9)
+# &#129440; COVID-19 Telegram Bot &#129440; ![](https://img.shields.io/badge/python-v.3.8-orange)  ![](https://img.shields.io/badge/-aiogram-ff0000) ![](https://img.shields.io/badge/-requests-ffea00) ![](https://img.shields.io/badge/-lxml-00c3d9) ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4) ![](https://img.shields.io/badge/-MySQL-a6f6ff)
 
 
 ## What it can
@@ -30,9 +30,9 @@ Bot can be found at: **[t.me/COVID1921_bot](https://t.me/COVID1921_bot)**  (May 
 #### Python Libraries:
  - ![](https://img.shields.io/badge/-aiogram-ff0000)
  - ![](https://img.shields.io/badge/-requests-ffea00)
+ - ![](https://img.shields.io/badge/-lxml-00c3d9)
  - ![](https://img.shields.io/badge/-beautifulsoup4-ff69b4)
  - ![](https://img.shields.io/badge/-mysql--connector--python-a6f6ff)
- - ![](https://img.shields.io/badge/-lxml-00c3d9)
 
 #### Used resources:
  - API: https://disease.sh/
